@@ -11,7 +11,8 @@ Please note that the maps for VacationPy are not showing up after pushing. I hav
 # Instructions
 
 This activity is broken down into two deliverables, WeatherPy and VacationPy.
-Part 1: WeatherPy
+
+# Part 1: WeatherPy
 
 In this deliverable, you'll create a Python script to visualize the weather of over 500 cities of varying distances from the equator. You'll use the citipy Python library
 Links to an external site., the OpenWeatherMap API
